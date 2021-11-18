@@ -1,0 +1,42 @@
+<html>
+<link rel="shortcut icon" type="image/jpg" href="/favicon.jpg"/>
+  <title>
+    RIPSQUAD | SIGN UP
+  </title>
+<embed src="backgroundmusic.mp3" autostart="true" loop="true" hidden="true"> 
+  <body>
+    <h1>☆terms and conditions☆</h1>
+  </body>
+
+  <center>
+ <img width=100 height=150 src="https://raatuse.tartu.ee/images/fotod_kodulehele/kauer_liiv.jpg"></img><br>
+<font color="green" size=4 face="blockfont">[<a style="text-decoration:none;" color="green" href=index.html>HOME</a>]    </font><font color="green" size=4 face="blockfont">[<a style="text-decoration:none;" color="green" href=SIGNUP.html>SIGN UP</a>]    </font><font color="green" size=4 face="blockfont">[<a style="text-decoration:none;" color="green" href=WIRE.html>WIRE</a>]</font>
+  </center><br>		  
+  
+<style>
+  table, th, td {
+    border: 1px solid;
+	color: grey;
+border-collapse: collapse;
+padding: 10px;
+}
+</style>
+<center>
+<table style="width:50%">
+  <tr>
+    <th><font face="blockfont" color="red">TERMS AND CONDITIONS</font></th>
+  </tr>
+	
+</html>
+
+  
+  <style>
+    body {
+      background-color:black;
+      color:#fff;
+      text-align:center;
+    }
+  </style>
+
+
+</html>
